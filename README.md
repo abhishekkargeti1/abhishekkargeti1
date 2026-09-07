@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kargeti</h1>
 
 <h3 align="center">
-  Java Full Stack Developer | Spring Boot | React | DevOps | Kubernetes
+  Java Backend Developer | Spring Boot | REST APIs | Microservices | Docker | Kubernetes
 </h3>
 
 <p align="center">
@@ -21,78 +21,94 @@
 
 ## 👨‍💻 About Me
 
-- 💻 **Java Full Stack Developer** focused on building scalable backend applications.
-- 🚀 Experienced with **Java, Spring Boot, REST APIs, React, and MongoDB**.
-- ☁️ Hands-on experience deploying applications on **AWS EC2**.
-- 🐳 Working with **Docker, Jenkins, and Kubernetes** for containerization and CI/CD.
-- 🔄 Building automated **CI/CD pipelines** using GitHub, Jenkins, Docker Hub, and Kubernetes.
-- 🔌 Interested in **Microservices, WebSockets, System Design, Cloud & DevOps**.
-- 📚 Currently improving my **DSA, System Design, Kubernetes and Cloud skills**.
-- 🎯 Goal: Build reliable, scalable and production-ready software.
+- 💻 I'm a **Java Backend Developer** focused on building scalable and maintainable backend applications.
+- ☕ Strongly focused on **Java, Spring Boot, REST APIs, and Microservices**.
+- 🔐 Interested in **JWT Authentication, API Security, WebSockets, and distributed systems**.
+- 🗄️ Experienced in working with **MySQL, MongoDB, and Redis**.
+- 🐳 Hands-on experience with **Docker, Jenkins, Kubernetes, and CI/CD pipelines**.
+- ☁️ Experience deploying and managing applications on **AWS EC2**.
+- 🔄 Interested in building automated **CI/CD workflows and cloud-native applications**.
+- 📚 Currently strengthening my knowledge of **DSA, System Design, Microservices, Kubernetes, and Cloud**.
+- 🎯 My goal is to design and build **reliable, scalable, and production-ready backend systems**.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming & Backend
+### ☕ Backend Development
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" alt="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="45" height="45" alt="Maven"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" alt="Spring"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="50" height="50" alt="Maven"/>
 </p>
 
-**Java • Spring Boot • Spring MVC • REST APIs • WebSockets • STOMP • Maven**
+**Java • Spring Boot • Spring MVC • Spring Data JPA • Hibernate • Maven**
 
 ---
 
-### 🎨 Frontend
+### 🌐 API & Backend Technologies
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+
+<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+
 </p>
 
-**React • JavaScript • HTML5 • CSS3 • Vite**
+**REST APIs • JWT Authentication • WebSockets • STOMP • API Integration • Exception Handling • Validation**
 
 ---
 
 ### 🗄️ Databases
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50" alt="Redis"/>
 </p>
 
-**MongoDB • MySQL**
+**MySQL • MongoDB • Redis**
 
 ---
 
-### ☁️ DevOps & Cloud
+### 🧩 Microservices
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" height="45" alt="Kubernetes"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="45" height="45" alt="Jenkins"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="45" alt="AWS"/>
-</p>
-
-**Docker • Kubernetes • Jenkins • AWS EC2 • Linux • CI/CD**
+- Microservices Architecture
+- REST-based Service Communication
+- API Gateway
+- Service Discovery
+- Inter-service Communication
+- Distributed Application Design
 
 ---
 
-### 🔧 Tools
+### 🐳 DevOps & Cloud
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" height="45" alt="Nginx"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" alt="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" height="50" alt="Jenkins"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="50" alt="AWS"/>
 </p>
 
-**Git • GitHub • Nginx • Postman • Docker Hub**
+**Docker • Kubernetes • Jenkins • AWS EC2 • Linux • CI/CD • Docker Hub**
+
+---
+
+### 🔧 Development Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50" height="50" alt="Nginx"/>
+</p>
+
+**Git • GitHub • Postman • Nginx • Docker Hub • Linux**
 
 ---
 
@@ -100,32 +116,93 @@
 
 ### 💬 Real-Time Chat Application
 
-**React + Spring Boot + MongoDB + WebSockets + Docker + Jenkins + Kubernetes + AWS**
+**Java • Spring Boot • React • MongoDB • WebSockets • Docker • Jenkins • Kubernetes • AWS**
 
-A full-stack real-time chat application deployed on Kubernetes.
+A full-stack real-time chat application with a **Spring Boot backend** and React frontend, containerized and deployed using Kubernetes.
 
-**Highlights:**
-- 🔌 Real-time communication using **WebSockets/STOMP**
-- 🐳 Containerized frontend and backend using **Docker**
-- 🔄 Automated CI/CD using **Jenkins & GitHub Webhooks**
-- ☸️ Kubernetes-based application deployment
-- ☁️ Deployed on **AWS EC2**
-- 📦 Docker images published to **Docker Hub**
-- 🔁 Automated rolling deployments and application scaling
+#### 🔥 Backend
 
-**Repositories:**
+- Developed backend services using **Java and Spring Boot**.
+- Implemented **REST APIs** for application functionality.
+- Implemented real-time communication using **WebSockets/STOMP**.
+- Integrated **MongoDB** for data persistence.
+- Implemented authentication and backend business logic.
+- Containerized the backend application using **Docker**.
 
-👉 [Frontend](https://github.com/abhishekkargeti1/ChatApplication-FrontEnd)
+#### ⚙️ DevOps & Deployment
 
-👉 [Backend](https://github.com/abhishekkargeti1/ChatApplication-Backend)
+- Created automated **Jenkins CI/CD pipelines**.
+- Integrated **GitHub Webhooks with Jenkins** for automated builds.
+- Built and pushed Docker images to **Docker Hub**.
+- Deployed the application using **Kubernetes**.
+- Configured Kubernetes **Deployments, Services, ConfigMaps, Secrets, and persistent storage**.
+- Deployed the application on **AWS EC2**.
+- Implemented replica-based deployment and rolling updates.
+
+### 🔗 Repositories
+
+**Backend**
+
+[![Backend](https://img.shields.io/badge/GitHub-ChatApplication--Backend-181717?style=for-the-badge&logo=github)](https://github.com/abhishekkargeti1/ChatApplication-Backend)
+
+**Frontend**
+
+[![Frontend](https://img.shields.io/badge/GitHub-ChatApplication--FrontEnd-181717?style=for-the-badge&logo=github)](https://github.com/abhishekkargeti1/ChatApplication-FrontEnd)
 
 ---
 
-### 🚆 MCDO — IRCTC Internal Project
+## 🚆 MCDO — IRCTC Internal Project
 
-**Java + Spring Boot**
+**Java • Spring Boot**
 
 Collaborated with the development team to develop and enhance an internal **IRCTC departmental application**, working on backend functionality, API integration, debugging, and application enhancements.
+
+---
+
+## 🏗️ Backend Projects
+
+### 🧩 Microservices Application
+
+Built a microservices-based backend architecture using **Spring Boot**, including multiple independent services and supporting infrastructure.
+
+**Services / Components:**
+
+- Question Service
+- Quiz Service
+- User Service
+- Hotel Service
+- API Gateway
+- Service Discovery
+
+**Technologies:**
+
+`Java` `Spring Boot` `REST API` `Microservices` `MySQL` `Eureka` `API Gateway`
+
+---
+
+## 📚 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/DSA-Learning-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/System%20Design-Learning-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Microservices-Learning-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Kubernetes-Hands--On-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AWS-Hands--On-blue?style=for-the-badge"/>
+
+</p>
+
+- 🧠 Data Structures & Algorithms
+- 🏗️ Low-Level Design
+- 🌐 System Design
+- 🧩 Advanced Microservices
+- ☸️ Kubernetes
+- ☁️ AWS & Cloud Architecture
+- 🔄 Advanced CI/CD
 
 ---
 
@@ -146,13 +223,39 @@ Collaborated with the development team to develop and enhance an internal **IRCT
 
 ---
 
-## 🎯 Currently Learning
+## 📈 My Development Focus
 
 ```text
-DSA                    ███████████░░░  Improving
-System Design          ██████████░░░░  Improving
-Spring Boot            █████████████░  Advanced
-Kubernetes             ██████████░░░░  Hands-on
-Docker & CI/CD         ███████████░░░  Hands-on
-AWS                    █████████░░░░░  Hands-on
-Microservices          █████████░░░░░  Learning
+Java & Spring Boot       ████████████████░░  Backend
+REST APIs                ███████████████░░░  Backend
+Microservices            █████████████░░░░░  Backend
+Database                 ███████████████░░░  Backend
+Docker                   █████████████░░░░░  DevOps
+Kubernetes               ███████████░░░░░░░  DevOps
+Jenkins & CI/CD          ████████████░░░░░░  DevOps
+AWS                      ██████████░░░░░░░░  Cloud
+System Design            ████████░░░░░░░░░░  Learning
+DSA                      ████████░░░░░░░░░░  Learning
+```
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/abhishek-kargeti-182000179/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/abhishekkargeti1" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Follow%20me-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <i>Building scalable backends, one API at a time 🚀</i>
+</p>
