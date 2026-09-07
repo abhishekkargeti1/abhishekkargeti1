@@ -208,9 +208,19 @@ Built a microservices-based backend architecture using **Spring Boot**, includin
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekkargeti1&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkargeti1&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=abhishekkargeti1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    alt="Abhishek's GitHub Stats"
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkargeti1&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Abhishek's Top Languages"
+    height="180"
+  />
 </p>
 
 ---
