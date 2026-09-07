@@ -217,10 +217,15 @@ Built a microservices-based backend architecture using **Spring Boot**, includin
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abhishekkargeti1&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/abhishekkargeti1">
+    <img src="https://img.shields.io/github/followers/abhishekkargeti1?style=for-the-badge&logo=github&label=Followers" />
+  </a>
+  <a href="https://github.com/abhishekkargeti1?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View%20Projects-181717?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
